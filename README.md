@@ -37,5 +37,8 @@ klasser som bestämmer URL:en för myWebView variabeln. Nedan syns också bild f
     }
 ```
 
-![](external.png | width=30)
-![](internal.png | width=30)
+<img src="external.png" width="40%">
+Extern hemsida
+
+<img src="internal.png" width="40%">
+Intern hemsida
